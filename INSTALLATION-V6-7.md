@@ -1,0 +1,1 @@
+NOVELYA V6.7 — La fiche utilise en fond l’image du premier chapitre, comme la lecture. Si aucune image de chapitre n’est définie, elle utilise la couverture. Aucune modification SQL. Remplacer les fichiers sur GitHub, commit, attendre Render Live, Ctrl+F5.
